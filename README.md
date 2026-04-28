@@ -2,9 +2,12 @@
 
 ## CodeJogot Team
 
+<img src="https://raw.githubusercontent.com/WebDeveloperJabir/fullstack-force-codejogot/refs/heads/main/Full%20Stack%20Force%20of%20CodeJogot.png" width="200" style="display: block; margin-left: auto; margin-right: auto;">
+
+\
 This team is created by our mentor **[Abdul Alim](https://github.com/FarmerAbdulAlim)** sir. Our goal is to create a full stack project and show it to our sir. The group consists of 4 members. We are from batch 6, 7, 8 and 9. We'll work together and make our project. This team was created on top of **[CodeJogot](https://codejogot.com)**.
 
-> CodeJogot is an educational platform which provides comprehensive programming courses in Bangla.
+> CodeJogot is an educational platform which provides comprehensive programming courses in Bangla.  
 > [Website](https://codejogot.com), [GitHub](https://github.com/CodeJogot), [LinkedIn](https://www.linkedin.com/company/codejogot), [YouTube](https://www.youtube.com/@CodeJogot), [Facebook](https://www.facebook.com/CodeJogot), [Instagram](https://www.instagram.com/codejogot)
 
 Details :-
